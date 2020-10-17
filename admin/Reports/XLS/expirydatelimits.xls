@@ -1,0 +1,107 @@
+
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 >Profile Id</td><td class=xl24 width=64 >First Name</td><td class=xl24 width=64 >Last Name</td><td class=xl24 width=64 >Gender</td><td class=xl24 width=64 >Birth Date</td><td class=xl24 width=64 >Age</td><td class=xl24 width=64 >Marital Status</td><td class=xl24 width=64 >Religion</td><td class=xl24 width=64 >Caste</td><td class=xl24 width=64 >Sub Caste</td><td class=xl24 width=64 >When Created</td><td class=xl24 width=64 >Last Updated</td><td class=xl24 width=64 >Ip Address</td><td class=xl24 width=64 >Status</td><td class=xl24 width=64 >Album Status</td><td class=xl24 width=64 >When Activated</td><td class=xl24 width=64 >Mobile No</td><td class=xl24 width=64 >Alternate Mobile No</td><td class=xl24 width=64 >Email Id</td><td class=xl24 width=64 >Address</td><td class=xl24 width=64 >Disrict</td><td class=xl24 width=64 >Taluka</td></tr><tr><td class=xl24 width=64 >1104</td><td class=xl24 width=64 >Rahul</td><td class=xl24 width=64 >Nikam</td><td class=xl24 width=64 >Male</td><td class=xl24 width=64 >1989-01-03</td><td class=xl24 width=64 >30</td><td class=xl24 width=64 >Unmarried</td><td class=xl24 width=64 >Hindu</td><td class=xl24 width=64 >Maratha</td><td class=xl24 width=64 >maratha</td><td class=xl24 width=64 >2019-03-22 16:15:25</td><td class=xl24 width=64 >0000-00-00 00:00:00</td><td class=xl24 width=64 >103.66.214.170</td><td class=xl24 width=64 >Y</td><td class=xl24 width=64 >Private</td><td class=xl24 width=64 >2018-04-06 10:03:35</td><td class=xl24 width=64 >9975466630</td><td class=xl24 width=64 >9922164544</td><td class=xl24 width=64 >rahul1989nikam.rn@gmail.com</td><td class=xl24 width=64 >AT Post:- Navali  
+Tal:- Purandhar 
+Dist:- Pune</td><td class=xl24 width=64 >Pune</td><td class=xl24 width=64 >purandhar</td></tr><tr><td class=xl24 width=64 >1105</td><td class=xl24 width=64 >Nilesh</td><td class=xl24 width=64 >Naikwadi</td><td class=xl24 width=64 >Male</td><td class=xl24 width=64 >1984-07-14</td><td class=xl24 width=64 >34</td><td class=xl24 width=64 >Unmarried</td><td class=xl24 width=64 >Hindu</td><td class=xl24 width=64 >Maratha</td><td class=xl24 width=64 >Maratha</td><td class=xl24 width=64 >2019-03-22 16:15:25</td><td class=xl24 width=64 >0000-00-00 00:00:00</td><td class=xl24 width=64 >157.33.41.24</td><td class=xl24 width=64 >Y</td><td class=xl24 width=64 >Private</td><td class=xl24 width=64 >2018-04-22 09:48:41</td><td class=xl24 width=64 >9657222175</td><td class=xl24 width=64 >9834189726</td><td class=xl24 width=64 >satishkale765@gmail.com</td><td class=xl24 width=64 >At.post.Tal.Akole. Dist. Ahmednagar.</td><td class=xl24 width=64 >Ahmednagar</td><td class=xl24 width=64 >Akole</td></tr>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Bootstrap 4 Multi-Select Plugin Demo</title>
+<link rel="stylesheet" href="css/BsMultiSelect.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <select name="states" id="example" class="form-control"  multiple="multiple" style="display: none;">
+                           	<script type="text/javascript">
+						var from_array = new Array('M.C.A','H.S.C','B.A.M.S','B.C.A','B.H.M.S','B.Tech','M.Tech','B.A','B.S.C','B.Com','B.E',
+						'Bachelors Of Architect','B.C.S','BPT','C.A','D.Pharma','B.Pharma','M.Pharma','Diploma','Fashion Desining','BL','ML','LLB',
+						'LLM','M.B.B.S','B.D.S','M.ED','B.ED','D.ED','B.B.A','M.B.A','M.A','M.S.C','M.COM','M.E','Medicine - General','Medicine - Dental',
+						'Medicine - Surgeon','Ph.d','IAS','IPS','S.S.C','M.C.S','M.C.M','I.T.I');
+						for(var i=0;i<from_array.length;i++)
+							{
+							document.write('<option>'+from_array[i]+'</option>');
+							}
+						</script>
+                            </select>
+  </div>
+  <script src="js/jquery.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/BsMultiSelect.js"></script>
+<script>$("states").bsMultiSelect();</script>
+</body>
+
+</html>
